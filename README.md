@@ -1,2 +1,2 @@
 # Data_ODP_Restoratioin
-Data for working paper on mobile resource scheduling for restoration using online dynamic programming
+Data for journal paper "Distribution network restoration with mobile resources dispatch: A simulation-based online dynamic programming approach"
